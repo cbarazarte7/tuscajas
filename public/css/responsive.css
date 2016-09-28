@@ -1,0 +1,9 @@
+@media (max-width: 460px){
+	.logo img{
+		text-align: center;
+		width: 60%;
+	}
+	.logo{
+		width: 100%;
+	}
+}

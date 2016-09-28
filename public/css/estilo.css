@@ -1,0 +1,544 @@
+body {
+  background-color: #e0dad6;
+  font-size: 18px;
+}
+
+.fa-btn {
+  margin-right: 6px;
+}
+.navbar-default .navbar-brand{
+
+  color: #333;
+}
+.contenedor{
+  width: 90%;
+  margin:0 auto;
+  font-size: 18px;
+}
+.titulo{
+  text-align:center;
+}
+
+.primera-parte{
+  width: 50%;
+  float: left;
+  padding-right: 20px;
+}
+.segunda-parte{
+  width: 50%;
+  float: right;
+  padding-right: 20px;
+}
+.aclaracion{
+  color:red;
+  font-size: 14px;
+}
+.direccion{
+  padding-right: 20px;
+}
+.tercera-parte{
+  width: 100%;
+  padding-right: 20px;
+  margin-bottom:30px;
+}
+.kit-agrande{
+  background-color: #e0dad6;
+  color: black;
+  font-size: 22px;
+  line-height: 30px;
+  margin-top: 10px;
+  padding: 3px;
+  font-weight: bold;
+  padding: 5px;
+  border-radius:1px;
+}
+.cuadro{
+  float: right;
+  margin-right:2% !important;
+  width:20px;
+  height:20px;
+}
+.boton{
+  text-align: center;
+}
+.mediospago{
+  text-align: center;
+  padding-top: 20px;
+  bottom: 0;
+}
+.mediospago img{
+  max-width:10%;
+  padding-right: 10px;
+}
+
+.formulario1{
+  background-color: rgba(250,250,250,0.5);
+  color: #000;
+  padding-top: 10px;
+  margin-left: 10px;
+}
+
+.formulario{
+  background-color: rgba(250,250,250,0.5);
+  color: #000;
+  padding: 20px
+}
+.formulario h3{
+  text-align: center;
+}
+.enviar{
+  text-align: center;
+}
+.boton {
+  text-align: center;
+  font-size: 25px;
+  /*background-color:rgb(102,186,51) ;*/
+  color: #eee;
+  font-weight: normal;
+  border-radius: 0px;
+  border: 0px;
+}
+
+.titulo-banner{
+  text-align: center;
+  background-color: rgba(210,210,210,0.3);
+  color:#fff;
+}
+.thumbnail{
+  text-align: center;
+  border-radius: 0px;
+  /*border: 1px solid rgba(0,0,0,0.7);*/
+  background-color: #eee;
+  padding-bottom: 15px
+}
+.thumbnail button{
+  width: 80%;
+}
+.fila{
+  /*background-color: #fff;*/
+  padding: 20px 0px 50px 0px;
+}
+.precios{
+  width: 100%;
+}
+footer{
+  background-color: #fff;
+  /*padding: 20px 15px 50px 15px;*/
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.jumbotron p{
+  font-weight: normal;
+}
+.eslogan{
+  background: rgba(0,0,0,0.41);
+  color: white;
+  position: relative;
+  z-index: 5;
+  padding: 15px;
+  /*text-shadow: 2px 2px #444444;*/
+  height: 100%;
+  text-align: center;
+  border-radius: 0px;
+  margin-top: 0%;
+}
+.eslogan h1{
+  margin-top:10%;
+}
+.eslogan h2{
+  margin-top:0%;
+}
+.pasos{
+  margin-top: 0%;
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: center;
+}
+.pasos img{
+  max-width: 80%;
+  margin: 148px;
+}
+
+.precio h3{
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.mediospago{
+  float: right(100%);
+  background: rgba(250,250,250,0.5);
+  padding: 20px;
+}
+.mediospago h3{
+  text-align: center;
+}
+.mediospago img{
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 1%;
+  margin-bottom: 6%;
+}
+.imagenes-medios{
+
+  width: 30%;
+  margin: 0 auto;
+}
+.popup{
+
+  background: rgba(250,250,250,0.5);
+  display: none;
+}
+
+.telodije{
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
+.redes{
+  position: relative;
+  z-index: 5;
+  padding-right: 8%;
+  float: right;
+  margin-top: 1.5%;
+}
+
+.modal-body {
+  max-height: 1138px;
+}
+.modal-dialog {
+ width: 90%;
+}
+
+.logo{
+  float: left;
+  margin-top: -25px;
+  margin-left: 4%;
+}
+.logo-grande{
+  padding-top:6%;
+  margin: 0 auto;
+}
+.logo img{
+  width: 85%;
+}
+.texto-articulo{
+  padding: 54px 0px 101px 0px;
+  width:80%;
+  margin:0 auto;
+}
+.contenedor-articulos{
+  border-radius: 10px;
+  margin-top:15%;
+  margin-bottom: 15%;
+  padding: 54px 45px 101px 0px;
+}
+
+.articulos{
+
+  background: white;
+  /*border: solid 1px #ccc;*/
+  border-radius: 0px;
+  padding: 20px;
+  margin-bottom: 5%;
+
+}
+
+.articulos a {
+
+  color:#000;
+  text-decoration: none;
+
+}
+
+.botones-kits{
+
+  float:right;
+  margin-bottom: 25%;
+
+
+}
+
+.texto {
+
+  text-align: center;
+
+}
+.estadopedido{
+
+  background-color: #4a007c;
+  border-radius: 0px;
+  font-weight: normal;
+  font-size: 25px;
+  border:0px;
+  text-align: center;
+  color:white;
+  margin-right: 1%;
+  font-weight: bold;
+  line-height: 50px;
+  width:100%;
+}
+.mas-articulos{
+
+  background-color: #4a007c;
+  border-radius: 5px;
+  font-weight: normal;
+  font-size: 25px;
+  border:0px;
+  text-align: center;
+  color:white;
+}
+.mas-articulos a{
+  color: white;
+}
+
+.mas-articulos a:hover{
+  color: white;
+  text-decoration: none;
+}
+.gracias{
+  margin-top: 20%;
+}
+/*Roooooooooooma cambios inicio*/
+.banner {
+  height:662px;
+  border-radius: 0px;
+  background-image:url('../img/banner.JPG');
+  background-size:cover;
+  margin-bottom:0px;
+  padding: 0px 0px;
+  margin-top: 8%;
+}
+.facebook-pedido{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+.facebook-pedido img{
+  width: 49px;
+  margin: 122%;
+  margin-top: 3%;
+}
+.barra-menu{
+  width: 100%;
+  margin: 0px auto;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  z-index: 30;
+  background: #fff;
+}
+.barra-menu-peque{
+  background: #fff;
+}
+.ul-pedido{
+  position: absolute;
+  right: 0px;
+  top: 40px;
+}
+.estadopedido-2{
+  background-color: #4a007c;
+  border-radius: 5px;
+  font-weight: normal;
+  font-size: 25px;
+  text-align: center;
+  border: 0px;
+  color: white;
+  margin: 10px 0px;
+  width: 100%;
+  cursor: pointer;
+  line-height: 50px;
+}
+.facebook-pedido-2{
+  margin-top: 15px;
+  margin-bottom: 8px;
+}
+.facebook-pedido-2 img{
+  width: 37px;
+  margin: 0 auto;
+}
+.texto-articulo{
+  padding: 5px 0px 101px 0px;
+  width:80%;
+  margin:0 auto;
+}
+.contenedor-articulos{
+  margin-top:15%;
+  margin-bottom: 15%;
+  padding: 54px 45px 101px 0px;
+}
+
+.articulos{
+
+  background: white;
+  /*border: solid 1px #000;*/
+  border-radius: 0px;
+  padding: 20px;
+  margin-bottom: 5%;
+
+}
+
+.articulos a {
+
+  color:#000;
+  text-decoration: none;
+
+}
+.mas-articulos{
+
+  background-color: #4a007c;
+  border-radius: 10px;
+  font-weight: normal;
+  font-size: 25px;
+  border:0px;
+  text-align: center;
+  color:white;
+}
+.mas-articulos a{
+  color: white;
+}
+
+.mas-articulos a:hover{
+  color: white;
+  text-decoration: none;
+}
+.altura{
+
+  height: 100px;
+  line-height: 1.42857143;
+
+
+}
+p>strong{
+  line-height: 3px !important;
+  font-weight: bold !important;
+  color: #000000;
+}
+
+p{
+  margin: 0px !important;
+  text-align: justify;
+}
+
+.articulo_listado{
+  border-radius: 0%;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+}
+
+/*media queries globales*/
+
+@media (min-width: 1441px)and (max-width: 1920px){
+  .pasos img {
+    max-width: 79%;
+    margin: 113px;
+  }
+  .banner{
+    height: 869px;
+    border-radius: 0px;
+    background-image: url('../img/banner.JPG');
+    background-size: cover;
+    margin-bottom: 0px;
+    padding: 0px 0px;
+    margin-top: 5%;
+  }
+}
+
+@media (min-width: 1200px)and (max-width: 1440px){
+  .pasos img {
+    max-width: 78%;
+    margin: 113px;
+  }
+  .banner{
+    height: 781px;
+    border-radius: 0px;
+    background-image: url('../img/banner.JPG');
+    background-size: cover;
+    margin-bottom: 0px;
+    padding: 0px 0px;
+    margin-top: 5%;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 992px){
+
+  .ul-pedido {
+    position: absolute;
+    right: 32px;
+    top: 34px;
+  }
+
+  .facebook-pedido img {
+    width: 51px;
+    margin: 127%;
+    margin-top: 0%
+  }
+  .pasos img {
+    max-width: 92%;
+    margin: 53px;
+  }
+  .banner{
+    height: 546px;
+    border-radius: 0px;
+    background-image: url('../img/banner.JPG');
+    background-size: cover;
+    margin-bottom: 0px;
+    padding: 0px 0px;
+    margin-top: 10%;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 768px){
+
+  .estadopedido-2 {
+    background-color: #4a007c;
+    border-radius: 5px;
+    font-weight: normal;
+    font-size: 25px;
+    text-align: center;
+    border: 0px;
+    color: white;
+    margin: 27px 122px;
+    margin-top: -26%;
+    width: 100%;
+    cursor: pointer;
+    line-height: 45px;
+    right: 254%;
+  }
+
+  .facebook-pedido-2 img {
+    width: 45px;
+    margin-left: 715px;
+    margin-top: -11%
+  }
+
+  .pasos img {
+    max-width: 92%;
+    margin: 53px;
+  }
+  .banner{
+    height: 464px;
+    border-radius: 0px;
+    background-image: url('../img/banner.JPG');
+    background-size: cover;
+    margin-bottom: 0px;
+    padding: 0px 0px;
+    margin-top:0%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .pasos img {
+    max-width: 92%;
+    margin: 53px;
+  }
+  .banner{
+    height: 464px;
+    border-radius: 0px;
+    background-image: url('../img/banner.JPG');
+    background-size: cover;
+    margin-bottom: 0px;
+    padding: 0px 0px;
+    margin-top: 10%;
+  }
+}
